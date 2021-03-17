@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.fd7e2247.css",
   "main.css.map": "static/css/main.fd7e2247.css.map",
-  "main.js": "static/js/main.065c5f0c.js",
-  "main.js.map": "static/js/main.065c5f0c.js.map",
+  "main.js": "static/js/main.5f92dc6f.js",
+  "main.js.map": "static/js/main.5f92dc6f.js.map",
   "static/media/Avenir-Black.woff": "static/media/Avenir-Black.643e4548.woff",
   "static/media/Avenir-Black.woff2": "static/media/Avenir-Black.be64469f.woff2",
   "static/media/Avenir-BlackOblique.woff": "static/media/Avenir-BlackOblique.2a13cd3c.woff",
@@ -52,6 +52,7 @@
   "static/media/kaoPineda2020_manuscript.pdf": "static/media/kaoPineda2020_manuscript.a1856cb1.pdf",
   "static/media/kaoShkolnik2020_manuscript.pdf": "static/media/kaoShkolnik2020_manuscript.d228cd49.pdf",
   "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
+  "static/media/melodiekao.jpg": "static/media/melodiekao.6da3206b.jpg",
   "static/media/melodiekao_CV.pdf": "static/media/melodiekao_CV.f144f36d.pdf",
   "static/media/mkao.jpeg": "static/media/mkao.841bc704.jpeg",
   "static/media/mkao_cropped.jpeg": "static/media/mkao_cropped.ddf28530.jpeg",
