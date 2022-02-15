@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.fd7e2247.css",
   "main.css.map": "static/css/main.fd7e2247.css.map",
-  "main.js": "static/js/main.6aef93da.js",
-  "main.js.map": "static/js/main.6aef93da.js.map",
+  "main.js": "static/js/main.19e3bb21.js",
+  "main.js.map": "static/js/main.19e3bb21.js.map",
   "static/media/Avenir-Black.woff": "static/media/Avenir-Black.643e4548.woff",
   "static/media/Avenir-Black.woff2": "static/media/Avenir-Black.be64469f.woff2",
   "static/media/Avenir-BlackOblique.woff": "static/media/Avenir-BlackOblique.2a13cd3c.woff",
@@ -32,6 +32,7 @@
   "static/media/NEWS_PI-Launchpad.jpg": "static/media/NEWS_PI-Launchpad.c9e30d36.jpg",
   "static/media/NEWS_backpackerMagazine.png": "static/media/NEWS_backpackerMagazine.87a231db.png",
   "static/media/NEWS_decadal_earlyCareer.jpg": "static/media/NEWS_decadal_earlyCareer.2a3e99a4.jpg",
+  "static/media/NEWS_hex1.png": "static/media/NEWS_hex1.9afe1d97.png",
   "static/media/NEWS_hubbleFellow.png": "static/media/NEWS_hubbleFellow.1b6ffcff.png",
   "static/media/NEWS_melodie_outside.JPG": "static/media/NEWS_melodie_outside.bcec6eed.JPG",
   "static/media/NEWS_simp0136_pressRelease.jpg": "static/media/NEWS_simp0136_pressRelease.cf7be8d0.jpg",
